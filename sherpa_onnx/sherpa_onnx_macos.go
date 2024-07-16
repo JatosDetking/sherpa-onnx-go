@@ -3,7 +3,7 @@
 package sherpa_onnx
 
 import (
-	sherpa "github.com/k2-fsa/sherpa-onnx-go-macos"
+	sherpa "github.com/JatosDetking/sherpa-onnx-go-macOS-iOS"
 )
 
 type OnlineTransducerModelConfig = sherpa.OnlineTransducerModelConfig
