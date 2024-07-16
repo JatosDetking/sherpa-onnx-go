@@ -1,3 +1,5 @@
+github.com/JatosDetking/sherpa-onnx-go-macOS-iOS v0.0.3 h1:ZAzPB8E1EAoqvv2xzec3zP7KcDKcOnHfqXn29eYCpPc=
+github.com/JatosDetking/sherpa-onnx-go-macOS-iOS v0.0.3/go.mod h1:an6nCOdJ6HgXnn1LRlbZ3S8UXxhaoQOV1Tkue6F02Mk=
 github.com/k2-fsa/sherpa-onnx-go-linux v1.10.15 h1:Rn5u+LBh0D1ahsJ3ujOHWUNfUb/FXAna1F8XHa/cAoE=
 github.com/k2-fsa/sherpa-onnx-go-linux v1.10.15/go.mod h1:lHZRU/WtBUJetJVPyXHg092diEWYyIEoaob+LMJKWvo=
 github.com/k2-fsa/sherpa-onnx-go-windows v1.10.15 h1:QGYgx2tWAM1uliANENSor7NSYKte9uTTz3PsQXQ3zCU=
